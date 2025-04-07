@@ -2,7 +2,10 @@
 
 
 ---
+## Hosted Link: https://exploria-cache-api-production.up.railway.app/api
 
+### USE USERNAME: admin AND PASSWORD: password WHILE LOGGING IN TO GET JWT TOKEN
+---
 
 
 ##  Setup
