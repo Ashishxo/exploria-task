@@ -44,9 +44,9 @@ npm start
 
 
 
-- `POST /register` – Register a new user. (Username and Password in body)
-- `POST /login` – Authenticate and receive a JWT. (Username and Password in body)
-- `GET /calculate/:value` – Protected route; requires JWT in the header as:
+- `POST /api/register` – Register a new user. (Username and Password in body)
+- `POST /api/login` – Authenticate and receive a JWT. (Username and Password in body)
+- `GET /api/calculate/:value` – Protected route; requires JWT in the header as:
 
 ```
 <token>
