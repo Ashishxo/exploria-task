@@ -1,11 +1,7 @@
 # Node.js Cache Implementation with Auth
 
 
----
-## Hosted Link: https://exploria-cache-api-production.up.railway.app/api
 
-### USE USERNAME: admin AND PASSWORD: password WHILE LOGGING IN TO GET JWT TOKEN FOR TESTING PURPOSES
----
 
 
 ##  Setup
